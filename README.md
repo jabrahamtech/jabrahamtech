@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jabrahamtech
-- 👀 I’m interested in BlockChain, Quantitative Trading and Machine Learning
-- 🌱 I’m currently learning to solve hackerrank problems in C++
-- 💞️ I’m looking to collaborate on a trading bot
+- 👀 I’m interested in BlockChain and Web Development
+- 🌱 I’m currently learning Angular and AWS
+- 💞️ I’m looking to collaborate on a full stack development project
 - 📫 Reach me at my email jabrahamtech@gmail.com
 
 <!---
