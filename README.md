@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jabrahamtech
 - 👀 I’m interested in BlockChain and Web Development
-- 🌱 I’m currently learning React and AWS
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on a full stack development project
 - 📫 Reach me at my email jabrahamtech@gmail.com
 
