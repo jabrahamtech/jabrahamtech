@@ -1,4 +1,4 @@
-# Jonathan Abraham
+🛠️💼📊📫🎯✨✨✨✨✨🏠# Jonathan Abraham
 
 Full-stack developer & software engineer specializing in **Python**, **TypeScript/React**, and **smart contracts**.
 Available for contract work and freelance projects.
