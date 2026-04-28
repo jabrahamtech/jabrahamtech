@@ -11,7 +11,7 @@ Available for contract work and freelance projects.
 **Databases:** PostgreSQL, MongoDB, SQLite  
 **Other:** Smart Contracts (Solidity), Git, Docker, AWS  
 
-## 💼 Services Offered
+## Services Offered
 
 - Full-stack web application development
 - - React/TypeScript frontend development
@@ -21,20 +21,20 @@ Available for contract work and freelance projects.
 - - Code review & technical consultation
 - - Project architecture & planning
 
-## 📊 Recent Work
+## Recent Work
 
 - - **Prediction Market Trading** - 111 commits across algorithmic trading systems
 - - **VoiceAI Integration** - 13 commits on commercial insurance form automation
 - - **Smart Contract Work** - Active blockchain development
 - - **Algorithm Optimization** - C++ performance optimization projects
       
-## 📫 Get in Touch
+## Get in Touch
 
 - - **LinkedIn:** [linkedin.com/in/jabrahamtech](https://linkedin.com/in/jabrahamtech)
 - - **Twitter/X:** [@overworkedkiwi](https://x.com/overworkedkiwi)
 - - **Email:** Available upon request
     
-## 🎯 Key Expertise
+## Key Expertise
 
 - ✨ Full-stack development with modern frameworks
 - ✨ Performance optimization & algorithm design
@@ -43,4 +43,4 @@ Available for contract work and freelance projects.
 - ✨ Agile & collaborative development
 
 ##
-*Pro/grammer 🏠 - Available for contract opportunities*
+*Available for contract opportunities*
