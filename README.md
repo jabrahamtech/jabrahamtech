@@ -42,4 +42,5 @@ Available for contract work and freelance projects.
 - ✨ Clean, maintainable, well-tested code
 - ✨ Agile & collaborative development
 
-- *Pro/grammer 🏠 - Available for contract opportunities*
+##
+*Pro/grammer 🏠 - Available for contract opportunities*
