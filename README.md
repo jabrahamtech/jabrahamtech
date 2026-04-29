@@ -4,8 +4,9 @@ Full-stack developer & software engineer specializing in **Python**, **TypeScrip
 Available for contract work and freelance projects.
 
 ## Website
-**[Posts](https://jonathanabraham.dev)**
-**[Voice AI Debugging Game](https://jonathanabraham.dev/terminal)**
+
+- - **[Posts](https://jonathanabraham.dev)**
+- -**[Voice AI Debugging Game](https://jonathanabraham.dev/terminal)**
 
 ## Tech Stack
 
