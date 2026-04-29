@@ -5,8 +5,8 @@ Available for contract work and freelance projects.
 
 ## Website
 
-- **[Posts](https://jonathanabraham.dev)**
-- **[Operator Game](https://jonathanabraham.dev/terminal)**
+- **[Posts](https://jabrahamtech.com)**
+- **[Operator Game](https://jabrahamtech.com/terminal)**
 
 ## Tech Stack
 
