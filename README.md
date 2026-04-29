@@ -5,8 +5,8 @@ Available for contract work and freelance projects.
 
 ## Website
 
-- - **[Posts](https://jonathanabraham.dev)**
-- - **[Voice AI Debugging Game](https://jonathanabraham.dev/terminal)**
+- **[Posts](https://jonathanabraham.dev)**
+- **[Voice AI Debugging Game](https://jonathanabraham.dev/terminal)**
 
 ## Tech Stack
 
@@ -19,25 +19,25 @@ Available for contract work and freelance projects.
 ## Services Offered
 
 - Full-stack web application development
-- - React/TypeScript frontend development
-- - Python backend & API development
-- - Smart contract development (Solidity)
-- - Database design & optimization
-- - Code review & technical consultation
-- - Project architecture & planning
+- React/TypeScript frontend development
+- Python backend & API development
+- Smart contract development (Solidity)
+- Database design & optimization
+- Code review & technical consultation
+- Project architecture & planning
 
 ## Recent Work
 
-- - **Prediction Market Trading** - 111 commits across algorithmic trading systems
-- - **VoiceAI Integration** - 13 commits on commercial insurance form automation
-- - **Smart Contract Work** - Active blockchain development
-- - **Algorithm Optimization** - C++ performance optimization projects
+- **Prediction Market Trading** - 111 commits across algorithmic trading systems
+- **VoiceAI Integration** - 13 commits on commercial insurance form automation
+- **Smart Contract Work** - Active blockchain development
+- **Algorithm Optimization** - C++ performance optimization projects
       
 ## Get in Touch
 
-- - **LinkedIn:** [linkedin.com/in/jabrahamtech](https://linkedin.com/in/jabrahamtech)
-- - **Twitter/X:** [@overworkedkiwi](https://x.com/overworkedkiwi)
-- - **Email:** Available upon request
+- **LinkedIn:** [linkedin.com/in/jabrahamtech](https://linkedin.com/in/jabrahamtech)
+- **Twitter/X:** [@overworkedkiwi](https://x.com/overworkedkiwi)
+- **Email:** Available upon request
     
 ## Key Expertise
 
