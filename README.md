@@ -3,7 +3,10 @@
 Full-stack developer & software engineer specializing in **Python**, **TypeScript/React**, and **smart contracts**.
 Available for contract work and freelance projects.
 
-## 🛠️ Tech Stack
+## Website
+**[Here](https://jonathanabraham.dev)**
+
+## Tech Stack
 
 **Languages:** Python, TypeScript, JavaScript, C++, C, SQL  
 **Frontend:** React, HTML, CSS, Tailwind  
