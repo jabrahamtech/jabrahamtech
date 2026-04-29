@@ -6,7 +6,7 @@ Available for contract work and freelance projects.
 ## Website
 
 - **[Posts](https://jonathanabraham.dev)**
-- **[Voice AI Debugging Game](https://jonathanabraham.dev/terminal)**
+- **[Operator Game](https://jonathanabraham.dev/terminal)**
 
 ## Tech Stack
 
