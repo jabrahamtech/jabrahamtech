@@ -7,10 +7,10 @@ I'm Jonathan. I've been building production systems for about 5 years, the last 
 - **[Posts](https://jabrahamtech.com)**
 - **[Operator Game](https://jabrahamtech.com/terminal)**
       
-## Get in Touch
+## Contact
 
 - **LinkedIn:** [linkedin.com/in/jabrahamtech](https://linkedin.com/in/jabrahamtech)
-- **Twitter/X:** [@overworkedkiwi](https://x.com/jabrahamtech)
+- **Twitter/X:** [@jabrahamtech](https://x.com/jabrahamtech)
 - **Email:** Available upon request
     
 ##
