@@ -5,7 +5,7 @@ I'm Jonathan. I've been building production systems for about 5 years, the last 
 ## Blog
 
 - **[Posts](https://jabrahamtech.com)**
-- **[Operator Game](https://jabrahamtech.com/terminal)**
+- **[About Me](https://jabrahamtech.com/about)**
       
 ## Contact
 
